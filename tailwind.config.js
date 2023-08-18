@@ -6,9 +6,6 @@ module.exports = {
       fontFamily: {
         roboto: "'Roboto', sans-serif",
       },
-      maxWidth: {
-        searchbar: "400px",
-      },
     },
   },
   plugins: [],
